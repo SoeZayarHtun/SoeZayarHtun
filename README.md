@@ -1,12 +1,8 @@
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>Hi! I'm Soe Zayar Htun , a passionate  Software Engineering student who enjoys learning new technologies and building real-world applications.<br><br>- 🎓 I'm currently studying Software Engineering.<br>- 💻 I'm interested in Full Stack Web Development  and Mobile App Development.<br>- 🌱 I'm currently learning Flutter, Laravel, JavaScript, React , Node.js , Docker, and Git/GitHub.<br>- 🚀 I enjoy building projects that solve real-world problems and improve my programming skills.<br>- 🤝 I'm looking to collaborate on open-source projects and software development teams.<br>- 💬 Ask me about **PHP, Laravel, JavaScript, Flutter, HTML, CSS, MySQL, and Git.<br>- 🎯 My goal is to become a Full Stack Software Engineer and continuously improve my skills.<br>- ⚡ Fun fact: I love turning ideas into working applications and learning something new every day.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yamsike&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=yamsike&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yamsike&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=yamsike&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💻 Tech Stack:
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=plastic&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
